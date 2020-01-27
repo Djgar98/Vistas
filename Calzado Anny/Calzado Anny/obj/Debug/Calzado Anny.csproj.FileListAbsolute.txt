@@ -1,0 +1,9 @@
+C:\Users\Danny J Garcia\source\repos\Calzado Anny\Calzado Anny\bin\Debug\Calzado Anny.exe.config
+C:\Users\Danny J Garcia\source\repos\Calzado Anny\Calzado Anny\bin\Debug\Calzado Anny.exe
+C:\Users\Danny J Garcia\source\repos\Calzado Anny\Calzado Anny\bin\Debug\Calzado Anny.pdb
+C:\Users\Danny J Garcia\source\repos\Calzado Anny\Calzado Anny\obj\Debug\Calzado Anny.csprojAssemblyReference.cache
+C:\Users\Danny J Garcia\source\repos\Calzado Anny\Calzado Anny\obj\Debug\Calzado_Anny.Properties.Resources.resources
+C:\Users\Danny J Garcia\source\repos\Calzado Anny\Calzado Anny\obj\Debug\Calzado Anny.csproj.GenerateResource.cache
+C:\Users\Danny J Garcia\source\repos\Calzado Anny\Calzado Anny\obj\Debug\Calzado Anny.exe
+C:\Users\Danny J Garcia\source\repos\Calzado Anny\Calzado Anny\obj\Debug\Calzado Anny.pdb
+C:\Users\Danny J Garcia\source\repos\Calzado Anny\Calzado Anny\obj\Debug\Calzado_Anny.FormPrincipal.resources
